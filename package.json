@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yasuhiko-nara <narayasuhiko3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
